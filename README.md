@@ -6,3 +6,12 @@ The machine learning model developed in this project aims to predict stock price
 ##  Technical details
 ### Data collection
 The project only uses publicly available data, and there are no privacy concerns related to individual-level data. In this project, we selected Tesla's stock data from January 2021 to September 2024. Data was collected from two primary sources:
+- 项目功能
+  - 数据收集
+  - 数据分析
+  - 模型预测
+
+1. 第一步：收集数据
+2. 第二步：数据清洗
+3. 第三步：构建模型
+![项目示例图](images/example.png)
