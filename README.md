@@ -14,4 +14,4 @@ The project only uses publicly available data, and there are no privacy concerns
 1. 第一步：收集数据
 2. 第二步：数据清洗
 3. 第三步：构建模型
-![项目示例图](images/example.png)
+![项目示例图](Line charts of Closing price.png)
