@@ -70,14 +70,14 @@
 
 <p align='justify'>On one hand, we’re planning to make the following improvements to improve accuracy for longer-term predictions:  </p>
 
-<p align='justify'> 1.  <b>Expand Data Sources</b>: Besides using search trend data from Google Trends, we will add more indicators that reflect public sentiment around a specific stock. For example, we’ll gather data from posts on social platforms like X and news from financial websites like Bloomberg. This way, we can better gauge how investors feel about the stock and whether there's a general optimism or caution.  </p>
+<p align='justify'> <b>1.  Expand Data Sources</b>: Besides using search trend data from Google Trends, we will add more indicators that reflect public sentiment around a specific stock. For example, we’ll gather data from posts on social platforms like X and news from financial websites like Bloomberg. This way, we can better gauge how investors feel about the stock and whether there's a general optimism or caution.  </p>
 
-<p align='justify'> 2. <b>Apply Financial Analysis Techniques</b>: We’ll combine traditional financial analysis methods, like value analysis, with more advanced machine learning techniques to build a more interpretable and accurate stock prediction model.  </p>
+<p align='justify'> <b>2. Apply Financial Analysis Techniques</b>: We’ll combine traditional financial analysis methods, like value analysis, with more advanced machine learning techniques to build a more interpretable and accurate stock prediction model.  </p>
 
 <p align='justify'>On the other hand, we’re planning to add several new features to enhance user-friendliness:  </p>
 
-<p align='justify'>1.Stock Code Input: Users will be able to enter the stock code they want to predict, and the application will automatically generate future price trend predictions.  </p>
+<p align='justify'><b>1. Stock Code Input</b>: Users will be able to enter the stock code they want to predict, and the application will automatically generate future price trend predictions.  </p>
 
-<p align='justify'>2.Custom Indicator Selection: Users can select which indicators to include in the prediction, allowing them to focus on factors they feel are most relevant based on their own investment experience.  </p>
+<p align='justify'><b>2. Custom Indicator Selection</b>: Users can select which indicators to include in the prediction, allowing them to focus on factors they feel are most relevant based on their own investment experience.  </p>
 
  
