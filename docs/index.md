@@ -11,7 +11,7 @@ Trading volume shows the market’s activity level and investors' enthusiasm for
 
 <img src="images/Line-charts-Closing-price.png" alt="line charts closing price" width="1000">
 
-![Line charts of Volum 10000](images/Line-charts-Volume.png)
+<img src="images/Line-charts-Volume.png" alt="line charts closing price" width="1000">
 
 ## Aha Moment 
 Therefore, we are here, trying to offer a possible solution to solve the above challenges through our project. Traditional methods often fall short when attempting to capture the non-linear patterns inherent in stock prices. So, we are planning to use data science to empower investment stock investment, leveraging ML techniques into stock price prediction, specifically a Long Short-Term Memory (LSTM) model, which is well-suited for time series data. This approach enables investors to better anticipate price fluctuations and refine their investment strategies by providing insights grounded in data. 
