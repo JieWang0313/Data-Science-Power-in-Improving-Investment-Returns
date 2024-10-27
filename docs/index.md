@@ -64,7 +64,7 @@
 
 <p align='justify'>The blue line on the left represents Tesla’s closing stock prices from January 4, 2021, to January 17, 2024. The overlapping green and red sections show the model’s testing results: the green line represents Tesla’s actual closing prices from January 18, 2024, to September 30, 2024, while the red dotted line shows our model’s predicted prices for the same period based on previous closing price data. As we can see, the two lines are very close, indicating a strong prediction accuracy. The yellow line on the right represents the model’s predicted daily closing prices for Tesla from October 1 to October 10, 2024. Investors can use these predictions to plan their investment strategies in advance.  </p>
 
-## Our potentials in the future 
+##Our potentials in the future 
 
 <p align='justify'>Currently, our model can predict stock prices reasonably well for about 10 days into the future. There's no doubt that our project holds tremendous potential for the future, with opportunities to deliver even greater value to investors.  </p>
 
