@@ -1,4 +1,3 @@
-## Content
 These are the visualizations of Principal Component Analysis (PCA) and Factor Analysis.
 
 
