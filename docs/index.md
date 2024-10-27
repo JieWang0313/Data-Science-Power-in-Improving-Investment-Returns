@@ -21,4 +21,4 @@ Before applying our ML models for prediction, we conducted an exploratory data a
 
 We conducted correlation tests and the KMO test to examine relationships among the variables, ensuring they’re well-suited for PCA. This approach allows us to focus on the most influential factors, delivering more targeted insights for investors. 
 
-(images/Pearson-Correlation-Matrix-Heatmap-11-Variables.png)
+![Pearson Coorelation](images/Pearson-Correlation-Matrix-Heatmap-11-Variables.png)
