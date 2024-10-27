@@ -10,11 +10,11 @@ Stock price patterns can be hard to predict, with significant fluctuations and s
 Trading volume shows the market’s activity level and investors' enthusiasm for Tesla. It’s clear, however, that any patterns in trading are quite subtle, underscoring how challenging it can be to time stock trades effectively and maintain a steady, rational approach in a volatile market. 
 
 <p align="center" width="100%">
-<img src="images/Line-charts-Closing-price.png" alt="line charts closing price" width="500">
+<img src="images/Line-charts-Closing-price.png" alt="line charts closing price" width="800">
 </p>
 
 <p align="center" width="100%">
-<img src="images/Line-charts-Volume.png" alt="line charts closing price" width="500">
+<img src="images/Line-charts-Volume.png" alt="line charts closing price" width="800">
 </p>
 
 ## Aha Moment 
@@ -25,9 +25,13 @@ Before applying our ML models for prediction, we conducted an exploratory data a
 
 We conducted correlation tests and the KMO test to examine relationships among the variables, ensuring they’re well-suited for PCA. This approach allows us to focus on the most influential factors, delivering more targeted insights for investors. 
 
-![Pearson Coorelation](images/Pearson-Correlation-Matrix-Heatmap-11-Variables.png)
+<p align="center" width="100%">
+<img src="images/Pearson-Correlation-Matrix-Heatmap-11-Variables.png" alt="line charts closing price" width="800">
+</p>
 
-![KMO](images/KMO.jpg)
+<p align="center" width="100%">
+<img src="images/KMO.jpg" alt="line charts closing price" width="800">
+</p>
 
 The two images above show that our original variables meet the conditions for PCA, allowing us to proceed confidently with the analysis. Through PCA, we identified the three key indicators—lowest price, RSI, and public interest—as the most significant contributors to stock price, as shown in the flowchart below. 
 
