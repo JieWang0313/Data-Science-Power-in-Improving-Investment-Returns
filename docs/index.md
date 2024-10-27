@@ -23,7 +23,7 @@ We conducted correlation tests and the KMO test to examine relationships among t
 
 ![Pearson Coorelation](images/Pearson-Correlation-Matrix-Heatmap-11-Variables.png)
 
-![KMO](images/KMO.png)
+![KMO](images/KMO.jpg)
 
 The two images above show that our original variables meet the conditions for PCA, allowing us to proceed confidently with the analysis. Through PCA, we identified the three key indicators—lowest price, RSI, and public interest—as the most significant contributors to stock price, as shown in the flowchart below. 
 
