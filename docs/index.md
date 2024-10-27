@@ -71,10 +71,8 @@
 <p align='justify'>On one hand, we’re planning to make the following improvements to improve accuracy for longer-term predictions:  </p>
 
 <p align='justify'> 
-1. **Expand Data Sources** : Besides using search trend data from Google Trends, we will add more indicators that reflect public sentiment around a specific stock. For example, we’ll gather data from posts on social platforms like X and news from financial websites like Bloomberg. This way, we can better gauge how investors feel about the stock and whether there's a general optimism or caution.  
-</p>
-
-<p align='justify'>2. Apply Financial Analysis Techniques: We’ll combine traditional financial analysis methods, like value analysis, with more advanced machine learning techniques to build a more interpretable and accurate stock prediction model.  </p>
+1. ** Expand Data Sources ** : Besides using search trend data from Google Trends, we will add more indicators that reflect public sentiment around a specific stock. For example, we’ll gather data from posts on social platforms like X and news from financial websites like Bloomberg. This way, we can better gauge how investors feel about the stock and whether there's a general optimism or caution.  
+2. ** Apply Financial Analysis Techniques **: We’ll combine traditional financial analysis methods, like value analysis, with more advanced machine learning techniques to build a more interpretable and accurate stock prediction model.  </p>
 
 <p align='justify'>On the other hand, we’re planning to add several new features to enhance user-friendliness:  </p>
 
