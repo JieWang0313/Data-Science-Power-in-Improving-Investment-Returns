@@ -56,13 +56,17 @@
 <img src="images/process2.jpg" alt="process2" width="500">
 </p>
 
-<p align='justify'>Our model has achieved impressive accuracy and reliable predictions for future stock prices, offering valuable foresight for investors. We have plotted the original stock price data, model testing results, and predicted stock price data on the same chart below.  </p>
+<p align='justify'>With impressive accuracy and reliable predictions for future stock prices, our model offers valuable foresight for investors. We have plotted the original stock price data, model testing results, and predicted stock price data on the same chart below.  </p>
 
 <p align="center" width="100%">
 <img src="images/Comparison-chart.png" alt="process2" width="800">
 </p>
 
-<p align='justify'>The blue line on the left represents Tesla’s closing stock prices from January 4, 2021, to January 17, 2024. The overlapping green and red sections show the model’s testing results: the green line represents Tesla’s actual closing prices from January 18, 2024, to September 30, 2024, while the red dotted line shows our model’s predicted prices for the same period based on previous closing price data. As we can see, the two lines are very close, indicating a strong prediction accuracy. The yellow line on the right represents the model’s predicted daily closing prices for Tesla from October 1 to October 10, 2024. Investors can use these predictions to plan their investment strategies in advance.</p>
+<p align='justify'>The blue line on the left represents Tesla’s closing stock prices from January 4, 2021, to January 17, 2024. </p>
+
+<p align='justify'>The overlapping green and red sections show the model’s testing results: the green line represents Tesla’s actual closing prices from January 18, 2024, to September 30, 2024, while the red dotted line shows our model’s predicted prices for the same period based on previous closing price data. As we can see, the two lines are very close, indicating a strong prediction accuracy. </p>
+ 
+ <p align='justify'>The yellow line on the right represents the model’s predicted daily closing prices for Tesla from October 1 to October 10, 2024. Investors can use these predictions to plan their investment strategies in advance.</p>
 
 ## Our potentials in the future 
 
