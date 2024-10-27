@@ -1,5 +1,5 @@
 # Enhancing Investment Returns with Machine Learning 
-<p style="text-align: justify;">In an era where stock markets are becoming more complicated and elusive, investors are usually overwhelmed by numerous information and data from the market. So, how to minimize risk, boost returns, and even achieve excess gains has become a major focus for investors. We understand that achieving the right balance between security and opportunity is essential in today’s dynamic market environment. That’s why we aim to empower investors through data science techniques, helping them unlock better returns in the stock market. With advanced analytics, we provide insights that make smarter, more profitable decisions possible. </p>
+In an era where stock markets are becoming more complicated and elusive, investors are usually overwhelmed by numerous information and data from the market. So, how to minimize risk, boost returns, and even achieve excess gains has become a major focus for investors. We understand that achieving the right balance between security and opportunity is essential in today’s dynamic market environment. That’s why we aim to empower investors through data science techniques, helping them unlock better returns in the stock market. With advanced analytics, we provide insights that make smarter, more profitable decisions possible. 
 
 Machine learning (ML), a branch of data science, with its ability to analyze vast datasets and recognize complex patterns, has emerged as a promising tool for understanding and predicting stock market movements. Our mini project explores how ML techniques can improve investment returns by accurately predicting stock price trends, with a particular focus on Tesla as a case study. 
 ## Understanding Challenges in Stock Market 
@@ -37,7 +37,9 @@ Next, we used an LSTM model to predict stock prices, two methods of the model ap
 
 Our model's application process, shown in the flowchart below, uses data science techniques to improve stock investments with accurate future price predictions. With these insights, investors can adjust their strategies and optimize trade timing, achieving returns that outperform the market. 
 
+<div style="text-align: center;">
 <img src="images/process2.jpg" alt="process2" width="500">
+</div>
 
 Our model has achieved impressive accuracy and reliable predictions for future stock prices, offering valuable foresight for investors. We have plotted the original stock price data, model testing results, and predicted stock price data on the same chart below. 
 
