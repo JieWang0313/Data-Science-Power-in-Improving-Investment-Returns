@@ -37,9 +37,7 @@ Next, we used an LSTM model to predict stock prices, two methods of the model ap
 
 Our model's application process, shown in the flowchart below, uses data science techniques to improve stock investments with accurate future price predictions. With these insights, investors can adjust their strategies and optimize trade timing, achieving returns that outperform the market. 
 
-<img src="images/process2.jpg" alt="process2" width="400">
-
-![process2](images/process2.jpg)
+<img src="images/process2.jpg" alt="process2" width="500">
 
 Our model has achieved impressive accuracy and reliable predictions for future stock prices, offering valuable foresight for investors. We have plotted the original stock price data, model testing results, and predicted stock price data on the same chart below. 
 
