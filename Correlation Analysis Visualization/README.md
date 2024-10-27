@@ -1,5 +1,4 @@
 ## Content
-<p style="text-align: justify;">
 
 These are the visualizations of the correlation analysis results. 
 
@@ -8,4 +7,3 @@ These are the visualizations of the correlation analysis results.
 
 
 **Spearman Heatmap** shows the monotonic relationships between variables, suitable for data that does not follow a normal distribution or has non-linear relationships. Since Spearman correlation is based on ranks, it can reveal the strength of relationships even if they are non-linear.
-</p>
