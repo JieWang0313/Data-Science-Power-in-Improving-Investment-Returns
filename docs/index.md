@@ -8,3 +8,6 @@ Forecasting stock prices is notoriously challenging due to the volatile and dyna
 Stock price patterns can be hard to predict, with significant fluctuations and some periods of sharp ups and downs. Navigating this volatility requires a keen understanding and the right tools to stay ahead.  
 
 Trading volume shows the market’s activity level and investors' enthusiasm for Tesla. It’s clear, however, that any patterns in trading are quite subtle, underscoring how challenging it can be to time stock trades effectively and maintain a steady, rational approach in a volatile market. 
+
+![Description of image](Stock data and Index data Visualization/Line charts of Closing price.png)
+
