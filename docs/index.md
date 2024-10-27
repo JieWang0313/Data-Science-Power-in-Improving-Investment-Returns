@@ -9,5 +9,5 @@ Stock price patterns can be hard to predict, with significant fluctuations and s
 
 Trading volume shows the market’s activity level and investors' enthusiasm for Tesla. It’s clear, however, that any patterns in trading are quite subtle, underscoring how challenging it can be to time stock trades effectively and maintain a steady, rational approach in a volatile market. 
 
-![Description of image](Stock data and Index data Visualization/Line charts of Closing price.png)
+![Description of image](images/Line-charts-Closing-price.png)
 
