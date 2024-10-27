@@ -1,5 +1,3 @@
-## Content
-
 These are the visualizations of the correlation analysis results. 
 
 
