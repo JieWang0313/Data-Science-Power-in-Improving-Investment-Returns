@@ -10,11 +10,11 @@ Stock price patterns can be hard to predict, with significant fluctuations and s
 Trading volume shows the market’s activity level and investors' enthusiasm for Tesla. It’s clear, however, that any patterns in trading are quite subtle, underscoring how challenging it can be to time stock trades effectively and maintain a steady, rational approach in a volatile market. 
 
 <p align="center" width="100%">
-<img src="images/Line-charts-Closing-price.png" alt="line charts closing price" width="800">
+<img src="images/Line-charts-Closing-price.png" alt="line charts closing price" width="700">
 </p>
 
 <p align="center" width="100%">
-<img src="images/Line-charts-Volume.png" alt="line charts closing price" width="800">
+<img src="images/Line-charts-Volume.png" alt="line charts closing price" width="700">
 </p>
 
 ## Aha Moment 
@@ -26,17 +26,17 @@ Before applying our ML models for prediction, we conducted an exploratory data a
 We conducted correlation tests and the KMO test to examine relationships among the variables, ensuring they’re well-suited for PCA. This approach allows us to focus on the most influential factors, delivering more targeted insights for investors. 
 
 <p align="center" width="100%">
-<img src="images/Pearson-Correlation-Matrix-Heatmap-11-Variables.png" alt="line charts closing price" width="800">
+<img src="images/Pearson-Correlation-Matrix-Heatmap-11-Variables.png" alt="line charts closing price" width="700">
 </p>
 
 <p align="center" width="100%">
-<img src="images/KMO.jpg" alt="line charts closing price" width="800">
+<img src="images/KMO.jpg" alt="line charts closing price" width="700">
 </p>
 
 The two images above show that our original variables meet the conditions for PCA, allowing us to proceed confidently with the analysis. Through PCA, we identified the three key indicators—lowest price, RSI, and public interest—as the most significant contributors to stock price, as shown in the flowchart below. 
 
 <p align="center" width="100%">
-<img src="images/process1.jpg" alt="line charts closing price" width="800">
+<img src="images/process1.jpg" alt="line charts closing price" width="700">
 </p>
 
 When analyzing the stock market, investors can prioritize these three key indicators. Doing so significantly optimizes analysis efficiency, enabling faster trading insights and maximizing the marginal gains from investment analysis. 
@@ -48,13 +48,13 @@ Next, we used an LSTM model to predict stock prices, two methods of the model ap
 Our model's application process, shown in the flowchart below, uses data science techniques to improve stock investments with accurate future price predictions. With these insights, investors can adjust their strategies and optimize trade timing, achieving returns that outperform the market. 
 
 <p align="center" width="100%">
-<img src="images/process2.jpg" alt="process2" width="800">
+<img src="images/process2.jpg" alt="process2" width="500">
 <p align="center" width="100%">
 
 Our model has achieved impressive accuracy and reliable predictions for future stock prices, offering valuable foresight for investors. We have plotted the original stock price data, model testing results, and predicted stock price data on the same chart below. 
 
 <p align="center" width="100%">
-<img src="images/Comparison-chart.png" alt="process2" width="800">
+<img src="images/Comparison-chart.png" alt="process2" width="700">
 <p align="center" width="100%">
 
 The blue line on the left represents Tesla’s closing stock prices from January 4, 2021, to January 17, 2024. The overlapping green and red sections show the model’s testing results: the green line represents Tesla’s actual closing prices from January 18, 2024, to September 30, 2024, while the red dotted line shows our model’s predicted prices for the same period based on previous closing price data. As we can see, the two lines are very close, indicating a strong prediction accuracy. The yellow line on the right represents the model’s predicted daily closing prices for Tesla from October 1 to October 10, 2024. Investors can use these predictions to plan their investment strategies in advance. 
