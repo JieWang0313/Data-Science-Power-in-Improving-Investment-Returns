@@ -9,7 +9,7 @@ Stock price patterns can be hard to predict, with significant fluctuations and s
 
 Trading volume shows the market’s activity level and investors' enthusiasm for Tesla. It’s clear, however, that any patterns in trading are quite subtle, underscoring how challenging it can be to time stock trades effectively and maintain a steady, rational approach in a volatile market. 
 
-![Line charts of Closing price for Tesla](images/Line-charts-Closing-price.png)
+<img src="images/Line-charts-Closing-price.png.jpg" alt="line charts closing price" width="500">
 
 ![Line charts of Volum 10000](images/Line-charts-Volume.png)
 
@@ -37,7 +37,7 @@ Next, we used an LSTM model to predict stock prices, two methods of the model ap
 
 Our model's application process, shown in the flowchart below, uses data science techniques to improve stock investments with accurate future price predictions. With these insights, investors can adjust their strategies and optimize trade timing, achieving returns that outperform the market. 
 
-<img src="images/process2.jpg" alt="process2" width="100">
+<img src="images/process2.jpg" alt="process2" width="500">
 
 Our model has achieved impressive accuracy and reliable predictions for future stock prices, offering valuable foresight for investors. We have plotted the original stock price data, model testing results, and predicted stock price data on the same chart below. 
 
