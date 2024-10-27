@@ -1,4 +1,3 @@
-## Content
 These are the data visualization charts of Tesla stock price, technical indexes and Google Trends index. 
 
 
