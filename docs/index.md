@@ -9,5 +9,16 @@ Stock price patterns can be hard to predict, with significant fluctuations and s
 
 Trading volume shows the market’s activity level and investors' enthusiasm for Tesla. It’s clear, however, that any patterns in trading are quite subtle, underscoring how challenging it can be to time stock trades effectively and maintain a steady, rational approach in a volatile market. 
 
-![Description of image](images/Line-charts-Closing-price.png)
+![Line charts of Closing price for Tesla](images/Line-charts-Closing-price.png)
 
+![Line charts of Volum 10000](images/Line-charts-Volumn.png)
+
+## Aha Moment 
+Therefore, we are here, trying to offer a possible solution to solve the above challenges through our project. Traditional methods often fall short when attempting to capture the non-linear patterns inherent in stock prices. So, we are planning to use data science to empower investment stock investment, leveraging ML techniques into stock price prediction, specifically a Long Short-Term Memory (LSTM) model, which is well-suited for time series data. This approach enables investors to better anticipate price fluctuations and refine their investment strategies by providing insights grounded in data. 
+
+## Insights and values - Key Indicators 
+Before applying our ML models for prediction, we conducted an exploratory data analysis (EDA) to gain deeper insights into stock-related data and offer valuable perspectives for investors. A key part of this process was using Principal Component Analysis (PCA) to identify major factors impacting stock prices. By pinpointing these key indicators, we empower investors to analyze investment strategies more efficiently and make smarter decisions. 
+
+We conducted correlation tests and the KMO test to examine relationships among the variables, ensuring they’re well-suited for PCA. This approach allows us to focus on the most influential factors, delivering more targeted insights for investors. 
+
+(images/Pearson-Correlation-Matrix-Heatmap-11-Variables.png)
