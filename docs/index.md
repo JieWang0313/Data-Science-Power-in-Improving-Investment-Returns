@@ -1,6 +1,12 @@
 # Enhancing Investment Returns with Machine Learning 
 
-<p style='text-align: justify;'> In an era where stock markets are becoming more complicated and elusive, investors are usually overwhelmed by numerous information and data from the market. So, how to minimize risk, boost returns, and even achieve excess gains has become a major focus for investors. We understand that achieving the right balance between security and opportunity is essential in today’s dynamic market environment. That’s why we aim to empower investors through data science techniques, helping them unlock better returns in the stock market. With advanced analytics, we provide insights that make smarter, more profitable decisions possible. </p>
+<style>
+body {
+    text-align: justify;
+}
+</style>
+
+In an era where stock markets are becoming more complicated and elusive, investors are usually overwhelmed by numerous information and data from the market. So, how to minimize risk, boost returns, and even achieve excess gains has become a major focus for investors. We understand that achieving the right balance between security and opportunity is essential in today’s dynamic market environment. That’s why we aim to empower investors through data science techniques, helping them unlock better returns in the stock market. With advanced analytics, we provide insights that make smarter, more profitable decisions possible.
 
 
 Machine learning (ML), a branch of data science, with its ability to analyze vast datasets and recognize complex patterns, has emerged as a promising tool for understanding and predicting stock market movements. Our mini project explores how ML techniques can improve investment returns by accurately predicting stock price trends, with a particular focus on Tesla as a case study. 
