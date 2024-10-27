@@ -54,7 +54,7 @@
 
 <p align="center" width="100%">
 <img src="images/process2.jpg" alt="process2" width="500">
-<p align="center" width="100%">
+</p>
 
 <p align='justify'>Our model has achieved impressive accuracy and reliable predictions for future stock prices, offering valuable foresight for investors. We have plotted the original stock price data, model testing results, and predicted stock price data on the same chart below.  </p>
 
