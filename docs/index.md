@@ -9,13 +9,9 @@ Stock price patterns can be hard to predict, with significant fluctuations and s
 
 Trading volume shows the market’s activity level and investors' enthusiasm for Tesla. It’s clear, however, that any patterns in trading are quite subtle, underscoring how challenging it can be to time stock trades effectively and maintain a steady, rational approach in a volatile market. 
 
-<div style="text-align: center;">
-    <img src="images/Line-charts-Closing-price.png" alt="Line charts of Closing price for Tesla" width="500">
-</div>
+![Line charts of Closing price for Tesla](images/Line-charts-Closing-price.png)
 
-<div style="text-align: center;">
-    <img src="images/Line-charts-Volume.png" alt="Line charts of Volume 10000" width="500">
-</div>
+![Line charts of Volum 10000](images/Line-charts-Volume.png)
 
 ## Aha Moment 
 Therefore, we are here, trying to offer a possible solution to solve the above challenges through our project. Traditional methods often fall short when attempting to capture the non-linear patterns inherent in stock prices. So, we are planning to use data science to empower investment stock investment, leveraging ML techniques into stock price prediction, specifically a Long Short-Term Memory (LSTM) model, which is well-suited for time series data. This approach enables investors to better anticipate price fluctuations and refine their investment strategies by providing insights grounded in data. 
