@@ -1,6 +1,6 @@
 ## Data-Science-Power-in-Improving-Investment-Returns
 
-Project for the course ** Introduction to Data Science 2024 ** in the University of Helsinki. 
+Project for the course **Introduction to Data Science 2024** in the University of Helsinki. 
 
 [Project Page](https://jiewang0313.github.io/Data-Science-Power-in-Improving-Investment-Returns/)
 
