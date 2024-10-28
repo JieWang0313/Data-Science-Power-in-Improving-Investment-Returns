@@ -54,7 +54,7 @@
 <img src="images/pca3.png" alt="line charts closing price" width="500">
 </p> 
 
-<p align='justify'>Through PCA, we identified the three key indicators—lowest price, RSI, and public interest—as the most significant contributors to stock price, as shown in the flowchart below.</p>
+<p align='justify'>So the three key indicators—lowest price, RSI, and public interest—are the most significant contributors to stock price, as shown in the flowchart below.</p>
 
 <p align="center" width="100%">
 <img src="images/process1.jpg" alt="line charts closing price" width="800">
