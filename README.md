@@ -13,3 +13,7 @@ To run the model, please do the following steps:
 2. Run Preprocess_and_EDA.py first and then run lstm_predict.py.
 
 3. At last the charts and prediction results will be saved as images in the same folder as the .py files.
+
+## Preprocessed data, Charts and Prediction Results
+
+If you want to check the reprocessed data, charts and prediction results, please go the corresponding file folders.
