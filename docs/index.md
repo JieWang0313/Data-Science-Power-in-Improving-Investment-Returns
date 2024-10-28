@@ -38,7 +38,23 @@
 <img src="images/KMO_overall.png" alt="line charts closing price" width="800">
 </p>
 
-<p align='justify'>The two images above show that our original variables meet the conditions for PCA, allowing us to proceed confidently with the analysis. Through PCA, we identified the three key indicators—lowest price, RSI, and public interest—as the most significant contributors to stock price, as shown in the flowchart below.  </p>
+<p align='justify'>The two images above show that our original variables meet the conditions for PCA, allowing us to proceed confidently with the analysis. </p>
+ 
+<p align='justify'>In the PCA analysis, we found that among the 11 price, technical, and public interest indicators, there are three main components influencing the closing price: PC1, PC2, and PC3. By analyzing the proportion of each main component represented by the 11 indicators, we can identify the representative indicators for each principal component, as highlighted in the figure below.</p>
+
+<p align="center" width="100%">
+<img src="images/pca1.png" alt="line charts closing price" width="500">
+</p> 
+
+<p align="center" width="100%">
+<img src="images/pca2.png" alt="line charts closing price" width="500">
+</p> 
+
+<p align="center" width="100%">
+<img src="images/pca3.png" alt="line charts closing price" width="500">
+</p> 
+
+<p align='justify'>Through PCA, we identified the three key indicators—lowest price, RSI, and public interest—as the most significant contributors to stock price, as shown in the flowchart below.</p>
 
 <p align="center" width="100%">
 <img src="images/process1.jpg" alt="line charts closing price" width="800">
