@@ -76,7 +76,7 @@
 <p align='justify'>With impressive accuracy and reliable predictions for future stock prices, our model offers valuable foresight for investors. We have plotted the original stock price data, model testing results, and predicted stock price data on the same chart below.  </p>
 
 <p align="center" width="100%">
-<img src="images/Comparison-chart.png" alt="process2" width="800">
+<img src="images/Comparison.png" alt="process2" width="800">
 </p>
 
 <p align='justify'>The blue line on the left represents Tesla’s closing stock prices from January 4, 2021, to January 17, 2024. </p>
