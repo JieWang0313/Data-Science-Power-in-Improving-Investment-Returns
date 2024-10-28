@@ -30,6 +30,7 @@
 <p align='justify'>We conducted correlation tests and the KMO test to examine relationships among the variables, ensuring they’re well-suited for PCA. This approach allows us to focus on the most influential factors, delivering more targeted insights for investors.  </p>
 
 
+
 <p align="center" width="100%">
 <img src="images/Pearson-Correlation-Matrix-Heatmap-11-Variables.png" alt="line charts closing price" width="800">
 </p>
