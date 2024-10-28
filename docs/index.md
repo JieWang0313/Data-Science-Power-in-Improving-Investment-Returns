@@ -41,7 +41,7 @@
 
 <p align='justify'>The two images above show that our original variables meet the conditions for PCA, allowing us to proceed confidently with the analysis. </p>
  
-<p align='justify'>In the PCA analysis, we found that among the 11 price, technical, and public interest indicators, there are three main components influencing the closing price: PC1, PC2, and PC3. By analyzing the proportion of each main component represented by the 11 indicators, we can identify the representative indicators for each principal component, as highlighted in the figure below.</p>
+<p align='justify'>In the PCA analysis, we found that among the 11 price, technical, and public interest indicators, there are three main components influencing the closing price: PC1, PC2, and PC3. By analyzing the proportion of each principal component represented by the 11 indicators, we can identify the representative indicators for each principal component, as highlighted in the figure below.</p>
 
 <div style="text-align: center; width: 100%;">
     <div style="display: inline-block; width: 30%; margin: 0 1%;">
