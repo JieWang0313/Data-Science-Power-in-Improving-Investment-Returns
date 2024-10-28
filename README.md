@@ -16,4 +16,4 @@ To run the model, please do the following steps:
 
 ## Preprocessed data, Charts and Prediction Results
 
-If you want to check the reprocessed data, charts and prediction results, please go the corresponding file folders.
+If you want to check the reprocessed data, charts and prediction results, please go the corresponding file folders in this repository.
