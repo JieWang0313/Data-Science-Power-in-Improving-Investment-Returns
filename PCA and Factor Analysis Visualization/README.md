@@ -10,10 +10,16 @@ Scree Plot: Helps in selecting the appropriate number of factors by showing the 
 Factor Pair Scatter Plot: Shows pairwise relationships between extracted factors, helping to analyze the correlation or independence among factors.
 
 
-PCA1: Shows the proportion of the 11 indicators in the first principal component. 
+KMO each plot: Indicates the suitability of each variable for Factor Analysis, the larger the number, the more suitable it is.
 
 
-PCA2: Shows the proportion of the 11 indicators in the second principal component. 
+KMO_overall plot: Indicates the suitability of the whole model for Factor Analysis, the larger the number, the more suitable it is.
 
 
-PCA3: Shows the proportion of the 11 indicators in the third principal component. 
+PCA1 plot: Shows the proportion of the 11 indicators in the first principal component. 
+
+
+PCA2 plot: Shows the proportion of the 11 indicators in the second principal component. 
+
+
+PCA3 plot: Shows the proportion of the 11 indicators in the third principal component. 
