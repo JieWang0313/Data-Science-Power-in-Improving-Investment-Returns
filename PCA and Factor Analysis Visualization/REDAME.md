@@ -8,3 +8,12 @@ Scree Plot: Helps in selecting the appropriate number of factors by showing the 
 
 
 Factor Pair Scatter Plot: Shows pairwise relationships between extracted factors, helping to analyze the correlation or independence among factors.
+
+
+PCA1: Shows the proportion of the 11 indicators in the first principal component. 
+
+
+PCA2: Shows the proportion of the 11 indicators in the second principal component. 
+
+
+PCA3: Shows the proportion of the 11 indicators in the third principal component. 
