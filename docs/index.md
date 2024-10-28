@@ -8,17 +8,16 @@
 
 <p align='justify'>Forecasting stock prices is notoriously challenging due to the volatile and dynamic nature of the market. Some challenges will arise when we want to make a prediction, like how to choose the timing, how to find the important indicators, how to obtain possible future information, and how to stay sensible during the decision-making process. Here are some examples of the challenges that can be shown in Tesla in the following picture. </p>
 
-<p align='justify'>Stock price patterns can be hard to predict, with significant fluctuations and some periods of sharp ups and downs. Navigating this volatility requires a keen understanding and the right tools to stay ahead.</p>
+<p align='justify'>Stock price patterns can be hard to predict, with significant fluctuations and some periods of sharp ups and downs. Navigating this volatility requires a keen understanding and the right tools to stay ahead. Trading volume shows the market’s activity level and investors' enthusiasm for Tesla. It’s clear, however, that any patterns in trading are quite subtle, underscoring how challenging it can be to time stock trades effectively and maintain a steady, rational approach in a volatile market.</p>
 
-<p align='justify'>Trading volume shows the market’s activity level and investors' enthusiasm for Tesla. It’s clear, however, that any patterns in trading are quite subtle, underscoring how challenging it can be to time stock trades effectively and maintain a steady, rational approach in a volatile market. </p>
-
-<p align="center" width="100%">
-<img src="images/Line-charts-Closing-price.png" alt="line charts closing price" width="500">
-</p>
-
-<p align="center" width="100%">
-<img src="images/Line-charts-Volume.png" alt="line charts closing price" width="500">
-</p>
+<div style="text-align: center; width: 100%;">
+    <div style="display: inline-block; vertical-align: top; width: 45%;">
+        <img src="images/Line-charts-Closing-price.png" alt="line charts closing price" width="100%">
+    </div>
+    <div style="display: inline-block; vertical-align: top; width: 45%;">
+        <img src="images/Line-charts-Volume.png" alt="line charts volume" width="100%">
+    </div>
+</div>
 
 ## Aha Moment 
 
