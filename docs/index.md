@@ -13,11 +13,11 @@
 <p align='justify'>Trading volume shows the market’s activity level and investors' enthusiasm for Tesla. It’s clear, however, that any patterns in trading are quite subtle, underscoring how challenging it can be to time stock trades effectively and maintain a steady, rational approach in a volatile market. </p>
 
 <p align="center" width="100%">
-<img src="images/Line-charts-Closing-price.png" alt="line charts closing price" width="800">
+<img src="images/Line-charts-Closing-price.png" alt="line charts closing price" width="500">
 </p>
 
 <p align="center" width="100%">
-<img src="images/Line-charts-Volume.png" alt="line charts closing price" width="800">
+<img src="images/Line-charts-Volume.png" alt="line charts closing price" width="500">
 </p>
 
 ## Aha Moment 
