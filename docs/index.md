@@ -35,7 +35,7 @@
 </p>
 
 <p align="center" width="100%">
-<img src="images/KMO.jpg" alt="line charts closing price" width="800">
+<img src="images/KMO overall.jpg" alt="line charts closing price" width="800">
 </p>
 
 <p align='justify'>The two images above show that our original variables meet the conditions for PCA, allowing us to proceed confidently with the analysis. Through PCA, we identified the three key indicators—lowest price, RSI, and public interest—as the most significant contributors to stock price, as shown in the flowchart below.  </p>
